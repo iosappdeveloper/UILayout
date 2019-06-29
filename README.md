@@ -1,3 +1,3 @@
 # UILayout
 
-A description of this package.
+Provides some convenience functions for UIKit layout functions
